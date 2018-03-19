@@ -91,3 +91,5 @@ Se os dados são dois de um tipo e três de outro, o jogador marca a soma de todos
 -	2,2,3,3,4 pontuação 0
 -	4,4,4,4,4 pontuação 0
 
+[fonte](https://github.com/emilybache/Yatzy-Refactoring-Kata)
+
